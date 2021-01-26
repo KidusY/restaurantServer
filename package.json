@@ -8,7 +8,7 @@
     "dev": "nodemon src/index.js"
   },
   "engines": {
-    "node": "12.17.0"
+    "node": "15.6.0"
   },
   "keywords": [],
   "author": "",
